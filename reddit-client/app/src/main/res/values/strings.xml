@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reddit-Client</string>
+
+    <string name="created_at">%d hours ago</string>
+    <string name="num_comments">%d comments</string>
+    <string name="separator">·</string>
+    <string name="error_loading_image">Error loading image</string>
+    <string name="error_saving_image">Error saving image</string>
+    <string name="info_saved_correctly">Image saved correctly</string>
+    <string name="info_already_saved">Image already saved</string>
+    <string name="error_dont_have_permission">No permission to save this image</string>
+    <string name="saving">Saving…</string>
+    <string name="error_loading_posts">Error loading posts</string>
+
+</resources>
